@@ -1,0 +1,48 @@
+header_setinterface="Select an interface"
+	setinterface_error="There are no wireless cards, quit..."
+
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_choosescan="Select channel"
+	choosescan_option_1="All channels "
+	choosescan_option_2="Specific channel(s)"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	scanchan_option_1="Canal Único"
+	scanchan_option_2="Canais Múltiplos"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_scan="Monitor WIFI"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_scanchan="Escaneando Alvo"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_askAP="Selecione a Opção de Ataque"
+	askAP_option_1="FakeAP - Hostapd ("$red"Recomendado)"
+	askAP_option_2="FakeAP - airbase-ng (Conexão fraca)"
+	askAP_option_4="Bruteforce - (Handshake é necessário)"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_askauth="MÉTODO PARA VERIFICAR A SENHA"
+	askauth_option_1="Handshake ("$red"Recomendado)"
+	askauth_option_2="Wpa_supplicant(Mais Falhas)"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_deauthforce="Checar Handshake"
+	deauthforce_option_1="aircrack-ng (Chance Perdida)"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_deauthMENU="*Capturar Handshake*"
+	deauthMENU_option_1="Checar handshake"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	header_webinterface="Selecione sua Opção"
+	header_ConnectionRESET="Selecione a Página de Login"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	general_back="Voltar"
+	general_error_1="Não Encontrado"
+	general_case_error="Opção Inválida. Escolha Novamente"
+	general_exitmode="Limpando e finalizando serviços"
+	general_exitmode_1="Desativando a interface de monitoramento"
+	general_exitmode_2="Desabilitando interface"
+	general_exitmode_3="Desabilitando "$grey"encaminhamento de pacotes"
+	general_exitmode_4="Limpando "$grey"iptables"
+	general_exitmode_5="Restaurando "$grey"tput"
+	general_exitmode_6="Reiniciando "$grey"Gerenciador de Rede"
+	general_exitmode_7="Limpeza realizada com sucesso!"
+	general_exitmode_8="Obrigado por utilizar  Fluxion"
+	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+	selection_1="Clientes Ativos"
+	selection_2="Selecione o Alvo. Para escanear novamente, digite $red r$transparent"
