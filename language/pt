@@ -2,9 +2,9 @@ header_setinterface="Select an interface"
 	setinterface_error="There are no wireless cards, quit..."
 
 	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-	header_choosescan="Select channel"
-	choosescan_option_1="All channels "
-	choosescan_option_2="Specific channel(s)"
+	header_choosescan="Selecionar Canal"
+	choosescan_option_1="Todos os Canais "
+	choosescan_option_2="Especificar Canais"
 	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	scanchan_option_1="Canal Único"
 	scanchan_option_2="Canais Múltiplos"
